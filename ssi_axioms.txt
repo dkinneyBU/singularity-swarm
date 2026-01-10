@@ -1,0 +1,4 @@
+HARDWARE: NVIDIA DGX Spark (Blackwell GB10, 128GB Unified Memory).
+PHILOSOPHY: Scale requires Swarms (DDP), not just bigger Monoliths.
+MEMORY: Current LLMs suffer from context loss; we need persistent Vector/Graph memory.
+OBJECTIVE: To build a self-improving SSI locally.

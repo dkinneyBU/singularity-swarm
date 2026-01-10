@@ -1,0 +1,24 @@
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# Python cache (Junk files)
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS Junk
+.DS_Store
+Thumbs.db
+
+# IDE settings
+.vscode/
+# ... (your existing python stuff) ...
+
+# AI Model Checkpoints (Big files)
+*.pth
+*.pt
+checkpoints/
+checkpoints_v5/
+pth/
