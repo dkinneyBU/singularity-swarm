@@ -1,4 +1,5 @@
 # The Singularity Swarm
+![The Singularity Swarm & SSI](Gemini_Generated_Image.png)  
 *Notes from the Blackwell SSI Architect.*
 
 ## The Manifesto
