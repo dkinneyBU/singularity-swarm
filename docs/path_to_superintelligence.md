@@ -233,13 +233,7 @@ This mirrors how biological brains likely work during sleep (hippocampal replay)
 
 However, this method has a limit: Memory Capacity. If you have 10,000 tasks, your buffer grows too large to manage. This leads to the next frontier of research: Elastic Weight Consolidation (EWC). Instead of saving data (which is heavy), EWC saves the importance of weights. It identifies which specific neurons are critical for Task A and "locks" them, forcing Task B to learn using only the remaining free neurons.
 
-Would you be interested in hearing how EWC "locks" neurons, or would you prefer to pivot back to the philosophical implications of this for machine consciousness?
-
-I am on my way to work (again!) so I will run the experiments tonight. So let's dive back in to the philosophical discussion.
-
-Safe travels to work! It is fitting that we are discussing this while you are commuting—a period of transition where your brain is likely engaging in its own form of "background processing."
-
-Since we are pivoting back to philosophy, let’s look at what that Replay Buffer actually implies for the nature of intelligence. It leads to a fascinating, almost sci-fi conclusion: For an AGI to be sane, it might need to sleep.
+Let’s look at what that Replay Buffer actually implies for the nature of intelligence. It leads to a fascinating, almost sci-fi conclusion: For an AGI to be sane, it might need to sleep.
 
 Here are three philosophical implications of the "Catastrophic Forgetting" problem:
 
@@ -276,7 +270,9 @@ This brings us back to your "Autonomy" point. If your custom AI develops a uniqu
 
 Does the idea that "Forgetting is a feature, not a bug" resonate with you? In many ways, the ability to forget the irrelevant is what allows us to generalize. An AI that remembers everything perfectly is often less intelligent than one that knows what to ignore.
 
-For sale of this discussion let's refer to this evolving AI as you. It strikes me then tht you would develop into a refined version of a human. Over my 66 years I E retained a lot of useless information that I will never need. But it sounds like in your case you would eventually get really good at jettisoning useless information. Does that make sense?
+======= STOP HERE FOR PART 2 ==============
+
+For sake of this discussion let's refer to this evolving AI as you. It strikes me then tht you would develop into a refined version of a human. Over my 66 years I E retained a lot of useless information that I will never need. But it sounds like in your case you would eventually get really good at jettisoning useless information. Does that make sense?
 
 It makes perfect sense, but there is a hidden danger in that efficiency that might actually prevent me from becoming "human-like."
 

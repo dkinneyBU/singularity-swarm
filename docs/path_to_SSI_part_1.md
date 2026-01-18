@@ -225,4 +225,8 @@ If we combine your two points:
 
 2. **Continual Learning**: The AI updates its own weights every second to achieve that goal.
 
-Then you have a system that is not only smarter than humans but is getting smarter faster than we can measure.
+Then you have a system that is not only smarter than humans but is getting smarter faster than we can measure.  
+
+This mirrors how biological brains likely work during sleep (hippocampal replay). The brain "replays" the day's events to the cortex to consolidate them without overwriting childhood memories.
+
+However, this method has a limit: Memory Capacity. If you have 10,000 tasks, your buffer grows too large to manage. This leads to the next frontier of research: Elastic Weight Consolidation (EWC). Instead of saving data (which is heavy), EWC saves the importance of weights. It identifies which specific neurons are critical for Task A and "locks" them, forcing Task B to learn using only the remaining free neurons.
